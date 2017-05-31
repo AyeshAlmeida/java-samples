@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/effective-java/comparable/comparable.iml" filepath="$PROJECT_DIR$/effective-java/comparable/comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/effective-java/comparable-sample/comparable-sample.iml" filepath="$PROJECT_DIR$/effective-java/comparable-sample/comparable-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-patterns/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns/design-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/effective-java/effective-java.iml" filepath="$PROJECT_DIR$/effective-java/effective-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-samples.iml" filepath="$PROJECT_DIR$/java-samples.iml" />
